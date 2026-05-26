@@ -9,7 +9,7 @@ toc: false
 ## Artigos
  
   - [Vazamento de Dados Sigilosos](/artigos/vazamento-dados.md)
-  - [Perda de Propriedade Intelectual]()
+  - [Perda de Propriedade Intelectual](/artigos/perda-propriedade-intelectual)
   - [Alucinações (Respostas Falsas) e Vieses Algorítmicos]()
   - [Vulnerabilidades Cibernéticas]()
   - [Desalinhamento entre Pequenas e Grandes Empresas]()
