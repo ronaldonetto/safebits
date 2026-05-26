@@ -8,7 +8,7 @@ toc: false
 
 ## Artigos
  
-  - [Vazamento de Dados]()
+  - [Vazamento de Dados](artigos/vazamento-dados.md)
   - [Violação de Leis de Privacidade]()
   - [Alucinações (Respostas Falsas) e Vieses Algorítmicos]()
   - [Vulnerabilidades Cibernéticas]()
