@@ -1,22 +1,66 @@
 
-## Vazamento de dados sigilosos
+## Vazamento de Dados Sigilosos
 
- O vazamento de **informações sigilosas é uma violação grave de dados confidenciais**. Isso abrange desde a exposição de segredos comerciais e corporativos até o vazamento de documentos judiciais sob segredo de justiça. Em cenários envolvendo cidadãos, esse tipo de exposição pode resultar em fraudes financeiras e sérios danos á privacidade.
+ O vazamento de **informações sigilosas**. representa uma grave violação de dados confidenciais. Esse problema pode envolver desde a exposição de segredos comerciais e corporativos até documentos judiciais protegidos por segredo de justiça. 
 
- ## Como o vazamento de dados pode ocorrer
+ Quando esse vazamento envolve dados de cidadãos, as consequências podem incluir:
 
- - **Erro humano**: A causa mais comum. Ações como o envio de e-mails para destinatários errados, clicar em links e páginas desconhecidas, baixar arquivos da web ou aqueles que são enviados diretamente para uma plataforma de uso cotidiando no dispositivo, compartilhamento de senhas, perca de dispositivos (computadores e pendrives), configuração incorreta do banco de dados na nuvem e compartilhamento de informações privadas com terceiros.
+- Fraudes financeiras;
+- Roubo de identidade;
+- Danos à reputação;
+- Prejuizos financeiros para empresas e usuários;
 
- - **Engenharia social e phishing**: A engenharia social trata de golpes que manipulam psicologicamente as pessoas para que revelem senhas, informações sigilosas ou instalem vírus que abrem portas para invasão. O phishing é o envio de e-mails ou mensagens falsas que passam por instituições confiáves (ex.: bancos), induzindo a vítima a clicar em links maliciosos para roubar dados importantes.
+ ## Como o Vazamento de Dados Pode Ocorrer
 
- - **Softwares e sistemas desatualizados**: Falhas de segurança mais conhecidas como "bugs" que nao foram corrigidos pelos administradores, permitindo que hackers explorem essas vulnerabilidades para extrair dados.
+ ### Erro Humano
 
- - **Ataques virtuais**: São programas maliciosos usados por criminosos para infectar redes e roubar bancos de dados inteiros de empresas e instituições.
+ O erro humano é uma das principais causas de vazamento de dados. Algumas das situações mais comuns incluem: 
 
- - **Falhas de terceiros**: Quando empresas terceirizadas possuem acesso aos seus dados e sofrem ataques por negligência na segurança delas. Isso pode afetar o seu negócio também.
+ - Envio de e-mails para destinatários errados;
+ - Clique em links desconhecidos ou maliciosos;
+ - Download de arquivos suspeitos;
+ - Compartilhamento inadequado de senhas;
+ - Perda de dispositivos como notebooks, celulares ou pendrives;
+ - Configurações incorretas em bancos de dados na nuvem;
+ - Compartilhamento de informações privadas com terceiros sem autorização;
 
- - **Ameaças internas**: Ocorre quando funcionários ou prestadores de serviços compartilham e fornecem dados sigilosos para o acesso légitimo das informações privadas. Isso pode ser intencionalmente feito por vingança, suborno ou ma-fé.  
+### Engenharia Social e Phishing
 
- ## Qual o principal risco do vazamento de dados
+ **A engenharia social** trata de técnicas utilizadas para aplicar golpes que manipulam psicologicamente as pessoas para que revelem senhas, informações sigilosas ou instalem vírus que abrem portas para invasão.
+ 
+ **O phishing** ocorre por meio de mensagens falsas que se passam por instituições confiáves (ex.: bancos, empresas terceirizadas), induzindo a vítima a clicar em links maliciosos e fornecer informações sensíveis.
 
-  O principal risco é saber que esses dados são absorvidos por essas plataformas para treinar novos modelos, e que podem ser expostos a terceiros, gerando pesadas multas legais e perdas de clientes.
+### Softwares e Sistemas Desatualizados
+
+ Sistemas desatualizados podem conter falhas de segurança conhecidas, chamadas de bugs. Quando essas vulnerabilidades não são corrigidas, criminosos podem explorá-las para invadir sistemas e extrair informações importantes.
+
+ ### Ataques virtuais
+
+ Utilizam programas maliciosos usados para invadir dispositivos e  redes corporativas. Esses ataques podem resultaR no roubo de bancos de dados inteiros, comprometendo informações financeiras estratégicas e pessoais.
+
+### Falhas de Terceiros
+
+ Empresas terceirizadas que possuem acesso a sistemas e dados também podem representar riscos. Caso essas empresas sofram ataques ou tenham falhas de segurança, os dados compartilhados podem ser expostos e afetar diretamente outras organizações.
+
+ ### Ameaças Internas
+
+  Ocorre quando funcionários, colaboradores ou prestadores de serviços utilizam o acesso légitimo aos sistemas para compartilhar informações sigilosas indevidamente
+  
+  Isso pode ser intencionalmente feito por:
+  
+  - Vingança
+  - Suborno
+  - Negligência
+  - Ma-fé.
+  - Descuido com informações sensíveis  
+
+ ## Qual o Principal Risco do Vazamento de Dados
+
+  O principal risco do vazamento de dados está na **perda de controle sobre as informações expostas**. Dados confidenciais podem ser utilizados por criminosos para fraudes, golpese ataques cibernéticos.
+
+  Além disso muitas plataformas digitais e ferramentas baseadas em Inteligência Artificial podem utilizar informações enviadas pelos usuários para treinamento de modelos, caso não existam políticas adequadas de proteção e privacidade.
+
+  A exposição dessa informação pode gerar:
+
+  - Processos judiciais;
+  - Multas relacionadas à proteção de dados, como LGPD;
