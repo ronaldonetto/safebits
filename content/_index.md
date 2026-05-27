@@ -9,8 +9,8 @@ toc: false
 ## Artigos
  
   - [Vazamento de Dados Sigilosos](/artigos/vazamento-dados.md)
-  - [Perda de Propriedade Intelectual](/artigos/perda-propriedade-intelectual)
+  - [Perda de Propriedade Intelectual](/artigos/perda-propriedade-intelectual.md)
   - [Alucinações (Respostas Falsas) e Vieses Algorítmicos](/artigos/alucinacoes-vieses-algoritmicos.md)
   - [Vulnerabilidades Cibernéticas](/artigos/vulnerabilidades-ciberneticas)
   - [Desalinhamento entre Pequenas e Grandes Empresas]()
-  - [Desinformação e Deepfakes]() 
+  - [Desinformação e Deepfakes](/artigos/desinformacao-deepfake.md) 
