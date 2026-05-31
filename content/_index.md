@@ -6,7 +6,7 @@ toc: false
 ## Dicas
 
 
-## Artigos
+## Artigos Educativos
  
   - [Vazamento de Dados Sigilosos](/artigos/vazamento-dados.md)
   - [Perda de Propriedade Intelectual](/artigos/perda-propriedade-intelectual.md)
