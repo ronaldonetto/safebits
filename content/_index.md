@@ -13,4 +13,4 @@ toc: false
   - [Alucinações (Respostas Falsas) e Vieses Algorítmicos](/artigos/alucinacoes-vieses-algoritmicos.md)
   - [Vulnerabilidades Cibernéticas](/artigos/vulnerabilidades-ciberneticas.md)
   - [Desinformação e Deepfakes](/artigos/desinformacao-deepfake.md) 
-  - [Teste](/content/artigos/teste.html)
+  - [Teste](/content/artigos/teste.md)
