@@ -75,7 +75,7 @@ Sem supervisão humana adequada, esses agentes podem:
 
 Mesmo com o avanço da Inteligência Artificial, aplicações web continuam expostas às vulnerabilidades clássicas de segurança.
 
-A lista do :contentReference[oaicite:0]{index=0} Top 10 reúne algumas das principais ameaças enfrentadas por sistemas modernos.
+A lista do [OWASP](https://owasp.org/Top10/2025/) Top 10 reúne algumas das principais ameaças enfrentadas por sistemas modernos.
 
 ---
 
