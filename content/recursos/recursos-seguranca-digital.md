@@ -6,7 +6,7 @@ Ferramentas e materiais gratuitos que podem ajudar pequenos empreendedores a mel
 
 ## Gerenciadores de Senhas
 
-### Bitwarden
+### [Bitwarden](https://bitwarden.com/)
 
 * Armazena senhas de forma segura.
 * Gera senhas fortes.
@@ -24,13 +24,13 @@ Ferramentas e materiais gratuitos que podem ajudar pequenos empreendedores a mel
 
 ## Autenticação Multifator (MFA)
 
-### Google Authenticator
+### [Google Authenticator](https://support.google.com/accounts/answer/1066447?hl=pt-BR&co=GENIE.Platform%3DAndroid)
 
 * Geração de códigos de autenticação.
 * Fácil configuração.
 * Compatível com diversos serviços online.
 
-### Microsoft Authenticator
+### [Microsoft Authenticator](https://www.microsoft.com/pt-br/security/mobile-authenticator-app)
 
 * MFA para contas Microsoft e outros serviços.
 * Possui opção de backup em nuvem.
@@ -40,7 +40,7 @@ Ferramentas e materiais gratuitos que podem ajudar pequenos empreendedores a mel
 
 ## Verificação de Vazamentos
 
-### Have I Been Pwned?
+### [Have I Been Pwned](https://haveibeenpwned.com/)
 
 * Verifica se seu e-mail apareceu em vazamentos conhecidos.
 * Permite monitorar exposições de credenciais.
@@ -50,7 +50,7 @@ Ferramentas e materiais gratuitos que podem ajudar pequenos empreendedores a mel
 
 ## Antivírus Gratuitos
 
-### Microsoft Defender
+### [Microsoft Defender](https://www.microsoft.com/pt-br/microsoft-365/microsoft-defender-for-individuals)
 
 * Integrado ao Windows.
 * Proteção contra malware e ameaças comuns.
@@ -60,13 +60,13 @@ Ferramentas e materiais gratuitos que podem ajudar pequenos empreendedores a mel
 
 ## Capacitação e Aprendizado
 
-### OWASP
+### [OWASP](https://owasp.org/)
 
 * Guias e materiais sobre segurança de aplicações.
 * Projetos de conscientização em segurança digital.
 * Referência amplamente utilizada por profissionais de segurança.
 
-### Cisco Networking Academy
+### [Cisco Networking Academy](https://www.netacad.com/)
 
 * Cursos gratuitos de tecnologia e segurança.
 * Conteúdo introdutório para iniciantes.
@@ -76,13 +76,13 @@ Ferramentas e materiais gratuitos que podem ajudar pequenos empreendedores a mel
 
 ## Ferramentas de Backup
 
-### Google Drive
+### [Google Drive](https://drive.google.com/drive/my-drive?hl=pt-br)
 
 * Armazenamento em nuvem.
 * Compartilhamento de arquivos.
 * Possui plano gratuito.
 
-### Dropbox Basic
+### [Dropbox Basic](https://www.dropbox.com/pt_BR/basic)
 
 * Sincronização de arquivos.
 * Backup básico em nuvem.
@@ -100,4 +100,4 @@ Ferramentas e materiais gratuitos que podem ajudar pequenos empreendedores a mel
 
 ## Aviso
 
-> As ferramentas listadas nesta página possuem versões gratuitas e podem ajudar a melhorar a segurança digital do seu negócio. Antes de utilizá-las, consulte a documentação oficial e avalie se atendem às necessidades da sua empresa.
+> As ferramentas listadas nesta página possuem versões gratuitas e podem ajudar a melhorar a segurança digital do seu negócio. Antes de utilizá-las, consulte a documentação oficial e avalie se atendem às necessidades do seu pequeno negócio.
