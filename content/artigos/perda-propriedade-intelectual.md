@@ -56,7 +56,7 @@ Por esse motivo, invenções geradas exclusivamente por algoritmos podem ter ped
 
 ## Termos de Uso das Plataformas
 
-Ferramentas de IA como :contentReference[oaicite:1]{index=1} e :contentReference[oaicite:2]{index=2} possuem termos de serviço específicos que definem regras sobre o uso e a propriedade dos conteúdos gerados.
+Ferramentas de IA como [ChatGPT](https://chatgpt.com/), [Gemini](https://gemini.google.com/?hl=pt-BR) possuem termos de serviço específicos que definem regras sobre o uso e a propriedade dos conteúdos gerados.
 
 Dependendo da plataforma e do plano utilizado, os direitos sobre o conteúdo produzido podem variar.
 
@@ -135,7 +135,7 @@ No caso de softwares, é recomendável declarar de forma transparente o nível d
 
 As leis relacionadas à Inteligência Artificial ainda estão em evolução.
 
-No Brasil, projetos como o :contentReference[oaicite:3]{index=3} buscam estabelecer regras mais claras sobre:
+No Brasil, os projetos buscam estabelecer regras mais claras sobre:
 
 - Responsabilidade;
 - Transparência;
