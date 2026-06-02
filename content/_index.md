@@ -6,7 +6,7 @@ toc: false
 
 ## Guia de Uso Seguro de Inteligência Artificial
 
-  - [Guia de Uso Seguro de IA](/guia/guia-uso-de-ia.md)
+  - [Guia de Uso Seguro de IA](/guias/guia-uso-de-ia.md)
 
 ## Artigos Educativos
  
