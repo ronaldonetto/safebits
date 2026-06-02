@@ -20,10 +20,10 @@ A manipulação de prompts ocorre quando usuários maliciosos conseguem influenc
 
 Esse tipo de ataque pode fazer com que o sistema:
 
-- ignore regras de segurança;
-- revele informações confidenciais;
-- execute ações indevidas;
-- burle restrições da aplicação.
+- Ignore regras de segurança;
+- Revele informações confidenciais;
+- Execute ações indevidas;
+- Burle restrições da aplicação.
 
 ---
 
@@ -33,11 +33,11 @@ Quando aplicações executam automaticamente conteúdos gerados pela IA sem vali
 
 Isso acontece principalmente quando a IA retorna:
 
-- código HTML;
-- comandos SQL;
-- scripts;
-- consultas de banco de dados;
-- comandos automatizados.
+- Código HTML;
+- Comandos SQL;
+- Scripts;
+- Consultas de banco de dados;
+- Comandos automatizados.
 
 Sem sanitização e filtragem adequadas, essas respostas podem abrir portas para invasões e execução de código malicioso.
 
@@ -47,11 +47,11 @@ Sem sanitização e filtragem adequadas, essas respostas podem abrir portas para
 
 Modelos de IA podem ser alimentados acidentalmente com:
 
-- dados internos;
-- documentos confidenciais;
-- credenciais;
-- informações de clientes;
-- códigos privados.
+- Dados internos;
+- Documentos confidenciais;
+- Credenciais;
+- Informações de clientes;
+- Códigos privados.
 
 Caso não existam controles adequados, essas informações podem aparecer posteriormente em respostas geradas para outros usuários ou serviços.
 
@@ -63,11 +63,11 @@ IAs autônomas e agentes inteligentes podem receber permissões excessivas dentr
 
 Sem supervisão humana adequada, esses agentes podem:
 
-- apagar arquivos;
-- modificar registros;
-- executar ações indevidas;
-- acessar áreas restritas;
-- realizar operações financeiras sem autorização.
+- Apagar arquivos;
+- Modificar registros;
+- Executar ações indevidas;
+- Acessar áreas restritas;
+- Realizar operações financeiras sem autorização.
 
 ---
 
@@ -85,10 +85,10 @@ Essa vulnerabilidade ocorre quando usuários conseguem acessar recursos, funçõ
 
 As consequências podem incluir:
 
-- acesso indevido a contas;
-- exposição de dados privados;
-- alteração de informações;
-- acesso administrativo não autorizado.
+- Acesso indevido a contas;
+- Exposição de dados privados;
+- Alteração de informações;
+- Acesso administrativo não autorizado.
 
 ---
 
@@ -106,12 +106,12 @@ Erros de configuração estão entre as falhas mais exploradas por criminosos.
 
 Alguns exemplos incluem:
 
-- bancos de dados expostos;
-- senhas padrão;
-- serviços desnecessários ativos;
-- permissões excessivas;
-- servidores desatualizados;
-- ausência de configurações de segurança.
+- Bancos de dados expostos;
+- Senhas padrão;
+- Serviços desnecessários ativos;
+- Permissões excessivas;
+- Servidores desatualizados;
+- Ausência de configurações de segurança.
 
 ---
 
@@ -123,10 +123,10 @@ Todo código gerado por IA deve passar por revisão técnica antes de ser utiliz
 
 A validação humana ajuda a identificar:
 
-- vulnerabilidades;
-- falhas lógicas;
-- permissões inseguras;
-- práticas inadequadas de desenvolvimento.
+- Vulnerabilidades;
+- Falhas lógicas;
+- Permissões inseguras;
+- Práticas inadequadas de desenvolvimento.
 
 ---
 
@@ -134,11 +134,11 @@ A validação humana ajuda a identificar:
 
 É fundamental aplicar princípios de desenvolvimento seguro, como:
 
-- sanitização de entradas;
-- validação de dados;
-- autenticação adequada;
-- controle de permissões;
-- criptografia de informações sensíveis.
+- Sanitização de entradas;
+- Validação de dados;
+- Autenticação adequada;
+- Controle de permissões;
+- Criptografia de informações sensíveis.
 
 ---
 
@@ -146,11 +146,11 @@ A validação humana ajuda a identificar:
 
 Aplicações devem ser testadas regularmente utilizando:
 
-- análise de vulnerabilidades;
-- pentests;
-- scanners automatizados;
-- auditorias de segurança;
-- monitoramento contínuo.
+- Análise de vulnerabilidades;
+- Pentests;
+- Scanners automatizados;
+- Auditorias de segurança;
+- Monitoramento contínuo.
 
 ---
 
