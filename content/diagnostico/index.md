@@ -30,7 +30,7 @@ Marque os itens que já estão implementados e acompanhe sua pontuação.
 <style>
 #barra::-webkit-progress-bar {
 background-color: #e5e7eb;
-border-radius: 8px;
+border-radius: 100px;
 }
 
 #barra {
@@ -159,7 +159,7 @@ const recomendacao = document.getElementById('recomendacao');
 
 if (porcentagem <= 40) {
   recomendacao.textContent =
-    'Priorize senhas fortes, MFA e backups.';
+    'Sua empresa apresenta vulnerabilidades significativas.';
 } else if (porcentagem <= 70) {
   recomendacao.textContent =
     'Sua empresa possui algumas boas práticas, mas ainda há melhorias importantes.';
