@@ -4,11 +4,11 @@ O uso inadequado de ferramentas de Inteligência Artificial pode gerar riscos re
 
 Dependendo da forma como a IA é utilizada, conteúdos gerados podem enfrentar problemas legais relacionados a:
 
-- direitos autorais;
-- plágio;
-- patenteamento;
-- titularidade da obra;
-- uso indevido de materiais protegidos.
+- Direitos autorais;
+- Plágio;
+- Patenteamento;
+- Titularidade da obra;
+- Uso indevido de materiais protegidos.
 
 ---
 
@@ -24,10 +24,10 @@ Em muitos países, incluindo o Brasil, a legislação de direitos autorais exige
 
 Quando uma obra é gerada de forma totalmente autônoma por uma IA, ela pode não possuir proteção autoral clara, podendo:
 
-- cair em domínio público;
-- enfrentar dificuldades de registro;
-- gerar disputas sobre autoria;
-- não possuir titularidade jurídica definida.
+- Cair em domínio público;
+- Enfrentar dificuldades de registro;
+- Gerar disputas sobre autoria;
+- Não possuir titularidade jurídica definida.
 
 ---
 
@@ -37,10 +37,10 @@ Muitos modelos de IA são treinados utilizando grandes volumes de dados disponí
 
 O uso de conteúdos protegidos por direitos autorais sem autorização pode gerar:
 
-- acusações de plágio;
-- violação de copyright;
-- disputas judiciais;
-- problemas relacionados à propriedade intelectual.
+- Acusações de plágio;
+- Violação de copyright;
+- Disputas judiciais;
+- Problemas relacionados à propriedade intelectual.
 
 Além disso, obras derivadas criadas com base em materiais protegidos também podem gerar conflitos legais.
 
@@ -68,12 +68,12 @@ Problemas relacionados à propriedade intelectual podem gerar consequências sig
 
 Entre os principais impactos estão:
 
-- processos judiciais;
-- perda de exclusividade sobre obras;
-- prejuízos financeiros;
-- danos à reputação;
-- invalidação de registros;
-- conflitos sobre autoria e licenciamento.
+- Processos judiciais;
+- Perda de exclusividade sobre obras;
+- Prejuízos financeiros;
+- Danos à reputação;
+- Invalidação de registros;
+- Conflitos sobre autoria e licenciamento.
 
 ---
 
@@ -85,11 +85,11 @@ Utilize a IA como ferramenta de apoio, e não como substituição completa da cr
 
 É importante demonstrar participação intelectual significativa por meio de:
 
-- curadoria;
-- edição;
-- revisão;
-- combinação de ideias;
-- personalização do conteúdo.
+- Curadoria;
+- Edição;
+- Revisão;
+- Combinação de ideias;
+- Personalização do conteúdo.
 
 ---
 
@@ -105,16 +105,16 @@ Algumas ferramentas oferecem maior proteção jurídica apenas em planos empresa
 
 Caso utilize IA treinada internamente ou datasets próprios, certifique-se de que os dados utilizados possuem:
 
-- licença adequada;
-- autorização de uso;
-- origem confiável;
-- compatibilidade com direitos autorais.
+- Licença adequada;
+- Autorização de uso;
+- Origem confiável;
+- Compatibilidade com direitos autorais.
 
 Sempre que possível, utilize:
 
-- obras em domínio público;
-- conteúdos licenciados;
-- materiais com licença Creative Commons.
+- Obras em domínio público;
+- Conteúdos licenciados;
+- Materiais com licença Creative Commons.
 
 ---
 
@@ -122,10 +122,10 @@ Sempre que possível, utilize:
 
 Sempre que possível:
 
-- registre códigos;
-- documente processos criativos;
-- mantenha histórico de desenvolvimento;
-- salve versões editadas por humanos.
+- Registre códigos;
+- Documente processos criativos;
+- Mantenha histórico de desenvolvimento;
+- Salve versões editadas por humanos.
 
 No caso de softwares, é recomendável declarar de forma transparente o nível de participação da IA no desenvolvimento.
 
@@ -137,11 +137,11 @@ As leis relacionadas à Inteligência Artificial ainda estão em evolução.
 
 No Brasil, projetos como o :contentReference[oaicite:3]{index=3} buscam estabelecer regras mais claras sobre:
 
-- responsabilidade;
-- transparência;
-- uso ético;
-- autoria compartilhada;
-- proteção de dados.
+- Responsabilidade;
+- Transparência;
+- Uso ético;
+- Autoria compartilhada;
+- Proteção de dados.
 
 Acompanhar essas mudanças é essencial para empresas, desenvolvedores e criadores de conteúdo.
 
@@ -151,10 +151,10 @@ Acompanhar essas mudanças é essencial para empresas, desenvolvedores e criador
 
 A proteção da propriedade intelectual é fundamental para incentivar:
 
-- inovação;
-- criatividade;
-- desenvolvimento tecnológico;
-- segurança jurídica;
-- valorização do trabalho humano.
+- Inovação;
+- Criatividade;
+- Desenvolvimento tecnológico;
+- Segurança jurídica;
+- Valorização do trabalho humano.
 
 Com o avanço da Inteligência Artificial, compreender os limites legais e éticos do uso dessas ferramentas tornou-se essencial para garantir o uso responsável da tecnologia.
