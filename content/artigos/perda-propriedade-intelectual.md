@@ -48,7 +48,7 @@ Além disso, obras derivadas criadas com base em materiais protegidos também po
 
 ## Falhas no Registro de Patentes
 
-Órgãos responsáveis pelo registro de propriedade intelectual, como o :contentReference[oaicite:0]{index=0} (INPI), normalmente exigem que invenções tenham participação humana identificável.
+Órgãos responsáveis pelo registro de propriedade intelectual, como o [INP](https://www.gov.br/inpi/pt-br), normalmente exigem que invenções tenham participação humana identificável.
 
 Por esse motivo, invenções geradas exclusivamente por algoritmos podem ter pedidos de patente negados tanto no Brasil quanto em outros países.
 
