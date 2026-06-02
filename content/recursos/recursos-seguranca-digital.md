@@ -90,7 +90,7 @@ Ferramentas e materiais gratuitos que podem ajudar pequenos empreendedores a mel
 
 ---
 
-## Recursos do SafeBits
+## Recursos do [SafeBits](https://ronaldonetto.github.io/safebits/)
 
 * Checklist de Segurança com calculadora de risco para Pequenos Negócios.
 * Guia de Uso Seguro de Inteligência Artificial.
