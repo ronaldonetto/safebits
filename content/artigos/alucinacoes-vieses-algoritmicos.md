@@ -1,6 +1,6 @@
 # Alucinações (Respostas Falsas) e Vieses Algorítmicos
 
-O uso de Inteligência Artificial pode trazer benefícios significativos para empresas e usuários. Entretanto, modelos de IA também apresentam riscos relacionados à geração de informações falsas e à reprodução de preconceitos existentes nos dados utilizados durante o treinamento dos algoritmos.
+O uso de Inteligência Artificial pode trazer benefícios significativos para empresas e usuários. Entretanto, **modelos de IA também apresentam riscos relacionados à geração de informações falsas e à reprodução de preconceitos existentes nos dados utilizados durante o treinamento dos algoritmos**.
 
 Esses problemas podem causar danos à reputação, discriminação, prejuízos financeiros e até consequências jurídicas.
 
@@ -20,11 +20,11 @@ As alucinações acontecem porque os modelos de IA funcionam prevendo padrões e
 
 Esse problema pode ocorrer devido a:
 
-- ausência de dados confiáveis;
-- informações incompletas;
-- vieses presentes no treinamento;
-- interpretações incorretas;
-- falta de contexto adequado.
+- Ausência de dados confiáveis;
+- Informações incompletas;
+- Vieses presentes no treinamento;
+- Interpretações incorretas;
+- Falta de contexto adequado.
 
 ---
 
@@ -32,11 +32,11 @@ Esse problema pode ocorrer devido a:
 
 Quando empresas ou profissionais divulgam conteúdos falsos gerados por IA, podem ocorrer consequências graves, como:
 
-- perda de credibilidade;
-- disseminação de desinformação;
-- danos à imagem da marca;
-- quebra de confiança de clientes e parceiros;
-- prejuízos financeiros e institucionais.
+- Perda de credibilidade;
+- Disseminação de desinformação;
+- Danos à imagem da marca;
+- Quebra de confiança de clientes e parceiros;
+- Prejuízos financeiros e institucionais.
 
 ---
 
@@ -46,9 +46,9 @@ Já existem casos documentados de profissionais utilizando informações falsas 
 
 No setor jurídico, por exemplo, advogados chegaram a citar processos e jurisprudências inexistentes produzidas por sistemas de IA em petições judiciais, resultando em:
 
-- sanções disciplinares;
-- exposição pública;
-- prejuízo à reputação profissional.
+- Sanções disciplinares;
+- Exposição pública;
+- Prejuízo à reputação profissional.
 
 ---
 
@@ -58,10 +58,10 @@ No setor jurídico, por exemplo, advogados chegaram a citar processos e jurispru
 
 Nunca considere o conteúdo gerado por IA como totalmente confiável. Toda informação importante deve ser validada utilizando:
 
-- fontes oficiais;
-- documentos originais;
-- bases confiáveis;
-- revisão humana especializada.
+- Fontes oficiais;
+- Documentos originais;
+- Bases confiáveis;
+- Revisão humana especializada.
 
 ---
 
@@ -79,10 +79,10 @@ Comandos bem estruturados ajudam a limitar respostas incorretas.
 
 Fornecer:
 
-- contexto adequado;
-- objetivos claros;
-- limites específicos;
-- fontes de referência;
+- Contexto adequado;
+- Objetivos claros;
+- Limites específicos;
+- Fontes de referência;
 
 permite que a IA produza resultados mais previsíveis e consistentes.
 
@@ -90,7 +90,7 @@ permite que a IA produza resultados mais previsíveis e consistentes.
 
 # Vieses Algorítmicos e Discriminação
 
-Os vieses algorítmicos ocorrem quando sistemas de IA reproduzem ou amplificam preconceitos históricos, sociais ou culturais presentes nos dados utilizados durante o treinamento dos modelos.
+Os vieses algorítmicos **ocorrem quando sistemas de IA reproduzem ou amplificam preconceitos históricos, sociais ou culturais presentes nos dados utilizados durante o treinamento dos modelos**.
 
 Esses problemas podem gerar decisões injustas e impactos negativos para determinados grupos sociais.
 
@@ -100,7 +100,7 @@ Esses problemas podem gerar decisões injustas e impactos negativos para determi
 
 ## Viés de Dados
 
-Ocorre quando os dados utilizados no treinamento não representam adequadamente a diversidade da população.
+**Ocorre quando os dados utilizados no treinamento não representam adequadamente a diversidade da população**.
 
 Um exemplo conhecido envolve sistemas de reconhecimento facial que apresentam maior taxa de erro com pessoas negras ou de pele retinta, devido ao treinamento predominante com rostos de pessoas brancas.
 
@@ -108,7 +108,7 @@ Um exemplo conhecido envolve sistemas de reconhecimento facial que apresentam ma
 
 ## Viés Algorítmico
 
-Esse viés surge a partir do próprio design do modelo ou das decisões tomadas pelos desenvolvedores.
+Esse viés  **surge a partir do próprio design do modelo ou das decisões tomadas pelos desenvolvedores**.
 
 Nesses casos, o algoritmo pode favorecer ou prejudicar determinados grupos de forma desproporcional.
 
@@ -128,10 +128,10 @@ Sistemas utilizados para triagem de currículos podem reproduzir padrões discri
 
 Isso pode prejudicar:
 
-- mulheres;
-- minorias étnicas;
-- candidatos de determinadas regiões;
-- grupos historicamente marginalizados.
+- Mulheres;
+- Minorias étnicas;
+- Candidatos de determinadas regiões;
+- Grupos historicamente marginalizados.
 
 ---
 
@@ -159,10 +159,10 @@ A inclusão de equipes multidisciplinares e diversas durante o desenvolvimento d
 
 A avaliação contínua dos modelos antes e após o lançamento permite identificar:
 
-- distorções;
-- padrões discriminatórios;
-- impactos desproporcionais;
-- falhas éticas.
+- Distorções;
+- Padrões discriminatórios;
+- Impactos desproporcionais;
+- Falhas éticas.
 
 ---
 
@@ -170,7 +170,7 @@ A avaliação contínua dos modelos antes e após o lançamento permite identifi
 
 Leis e marcos regulatórios são importantes para garantir:
 
-- transparência no uso da IA;
-- responsabilidade das empresas;
-- proteção de direitos fundamentais;
-- respeito à dignidade humana.
+- Transparência no uso da IA;
+- Responsabilidade das empresas;
+- Proteção de direitos fundamentais;
+- Respeito à dignidade humana.
