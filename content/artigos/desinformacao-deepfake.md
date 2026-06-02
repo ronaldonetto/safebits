@@ -23,7 +23,7 @@ Essa tecnologia pode criar conteúdos falsos extremamente convincentes, dificult
 
 # Como a Desinformação Ocorre
 
-A desinformação acontece quando conteúdos falsos ou manipulados são compartilhados para enganar pessoas, influenciar opiniões ou gerar vantagens políticas, financeiras ou sociais.
+A desinformação **acontece quando conteúdos falsos ou manipulados são compartilhados para enganar pessoas, influenciar opiniões ou gerar vantagens políticas, financeiras ou sociais**.
 
 Com o auxílio da IA, esse processo se tornou mais rápido, barato e escalável.
 
@@ -33,11 +33,11 @@ Com o auxílio da IA, esse processo se tornou mais rápido, barato e escalável.
 
 Ferramentas de IA podem produzir:
 
-- artigos falsos;
-- manchetes enganosas;
-- comentários automatizados;
-- perfis falsos em redes sociais;
-- conteúdos manipulados em larga escala.
+- Artigos falsos;
+- Manchetes enganosas;
+- Comentários automatizados;
+- Perfis falsos em redes sociais;
+- Conteúdos manipulados em larga escala.
 
 Isso facilita campanhas de desinformação com aparência profissional e convincente.
 
@@ -49,11 +49,11 @@ Tecnologias de deepfake permitem criar vídeos falsos de figuras públicas dizen
 
 Esse tipo de manipulação pode causar:
 
-- danos à reputação;
-- manipulação política;
-- fraudes financeiras;
-- chantagens;
-- desinformação pública.
+- Danos à reputação;
+- Manipulação política;
+- Fraudes financeiras;
+- Chantagens;
+- Desinformação pública.
 
 ---
 
@@ -63,10 +63,10 @@ Golpistas podem utilizar clonagem de voz e imagens falsas para aplicar golpes ma
 
 Exemplos incluem:
 
-- falsas ligações de familiares;
-- imitação de executivos;
-- solicitações fraudulentas de transferência bancária;
-- falsificação de identidade.
+- Falsas ligações de familiares;
+- Imitação de executivos;
+- Solicitações fraudulentas de transferência bancária;
+- Falsificação de identidade.
 
 ---
 
@@ -88,11 +88,11 @@ Mesmo após a descoberta da fraude, os impactos na imagem pública podem permane
 
 Campanhas de desinformação podem influenciar:
 
-- eleições;
-- debates públicos;
-- opiniões políticas;
-- movimentos sociais;
-- comportamento da população.
+- Eleições;
+- Debates públicos;
+- Opiniões políticas;
+- Movimentos sociais;
+- Comportamento da população.
 
 ---
 
@@ -102,9 +102,9 @@ Criminosos utilizam IA para criar golpes mais realistas, aumentando as chances d
 
 Empresas também podem sofrer prejuízos devido a:
 
-- falsificação de identidade;
-- ordens financeiras fraudulentas;
-- ataques de engenharia social.
+- Falsificação de identidade;
+- Ordens financeiras fraudulentas;
+- Ataques de engenharia social.
 
 ---
 
@@ -112,10 +112,10 @@ Empresas também podem sofrer prejuízos devido a:
 
 O aumento de conteúdos falsos pode gerar desconfiança generalizada em relação a:
 
-- notícias;
-- mídias digitais;
-- provas audiovisuais;
-- comunicações oficiais.
+- Notícias;
+- Mídias digitais;
+- Provas audiovisuais;
+- Comunicações oficiais.
 
 Esse fenômeno compromete a credibilidade da informação na sociedade.
 
@@ -127,10 +127,10 @@ Esse fenômeno compromete a credibilidade da informação na sociedade.
 
 Antes de compartilhar conteúdos, é importante verificar:
 
-- origem da informação;
-- autenticidade do perfil;
-- confiabilidade da fonte;
-- existência de confirmação em veículos oficiais.
+- Origem da informação;
+- Autenticidade do perfil;
+- Confiabilidade da fonte;
+- Existência de confirmação em veículos oficiais.
 
 ---
 
@@ -146,10 +146,10 @@ A conscientização digital é uma das principais formas de prevenção.
 
 Empresas e plataformas vêm desenvolvendo sistemas capazes de identificar:
 
-- deepfakes;
-- manipulações de imagem;
-- vozes sintéticas;
-- comportamentos automatizados.
+- Deepfakes;
+- Manipulações de imagem;
+- Vozes sintéticas;
+- Comportamentos automatizados.
 
 Essas tecnologias auxiliam no combate à disseminação de conteúdo falso.
 
@@ -159,10 +159,10 @@ Essas tecnologias auxiliam no combate à disseminação de conteúdo falso.
 
 Organizações devem estabelecer políticas claras para:
 
-- validação de conteúdos;
-- proteção da identidade digital;
-- resposta a incidentes;
-- monitoramento de mídias e redes sociais.
+- Validação de conteúdos;
+- Proteção da identidade digital;
+- Resposta a incidentes;
+- Monitoramento de mídias e redes sociais.
 
 ---
 
@@ -172,10 +172,10 @@ Leis e regulamentações são importantes para definir responsabilidades relacio
 
 O desenvolvimento de marcos regulatórios busca aumentar:
 
-- transparência;
-- segurança;
-- responsabilização;
-- proteção contra abusos tecnológicos.
+- Transparência;
+- Segurança;
+- Responsabilização;
+- Proteção contra abusos tecnológicos.
 
 ---
 
@@ -185,7 +185,7 @@ O combate à desinformação não depende apenas da tecnologia, mas também do c
 
 Usuários, empresas, governos e plataformas digitais precisam atuar de forma conjunta para promover:
 
-- pensamento crítico;
-- consumo responsável de informação;
-- ética digital;
-- uso consciente da Inteligência Artificial.
+- Pensamento crítico;
+- Consumo responsável de informação;
+- Ética digital;
+- Uso consciente da Inteligência Artificial.
