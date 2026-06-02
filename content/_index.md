@@ -10,8 +10,7 @@ toc: false
   - [Alucinações (Respostas Falsas) e Vieses Algorítmicos](/artigos/alucinacoes-vieses-algoritmicos.md)
   - [Vulnerabilidades Cibernéticas](/artigos/vulnerabilidades-ciberneticas.md)
   - [Desinformação e Deepfakes](/artigos/desinformacao-deepfake.md) 
-  - [Teste](/artigos/teste.md)
-
+  
   ## Diagnóstico de Segurança 
    
    - [Checklist de Segurança](/diagnostico/index.md)
