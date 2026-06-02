@@ -13,7 +13,7 @@ Ferramentas e materiais gratuitos que podem ajudar pequenos empreendedores a mel
 * Possui plano gratuito.
 * Disponível para computador e dispositivos móveis.
 
-### KeePassXC
+### [KeePassXC](https://keepassxc.org/)
 
 * Gerenciador de senhas offline.
 * Código aberto.
@@ -92,8 +92,7 @@ Ferramentas e materiais gratuitos que podem ajudar pequenos empreendedores a mel
 
 ## Recursos do SafeBits
 
-* Checklist de Segurança para Pequenos Negócios.
-* Calculadora de Risco.
+* Checklist de Segurança com calculadora de risco para Pequenos Negócios.
 * Guia de Uso Seguro de Inteligência Artificial.
 * Materiais de conscientização em segurança digital.
 
