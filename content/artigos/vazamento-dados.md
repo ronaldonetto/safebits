@@ -1,13 +1,13 @@
 # Vazamento de Dados Sigilosos
 
-O vazamento de informações sigilosas representa uma grave violação de dados confidenciais. Esse problema pode envolver desde a exposição de segredos comerciais e corporativos até documentos judiciais protegidos por segredo de justiça.
+O vazamento de informações sigilosas **representa uma grave violação de dados confidenciais.** Esse problema pode envolver desde a exposição de segredos comerciais e corporativos até documentos judiciais protegidos por segredo de justiça.
 
-Quando esse vazamento envolve dados de cidadãos, as consequências podem incluir:
+Quando esse vazamento envolve dados de **cidadãos**, as consequências podem incluir:
 
-- fraudes financeiras;
-- roubo de identidade;
-- danos à reputação;
-- prejuízos financeiros para empresas e usuários.
+- Fraudes financeiras;
+- Roubo de identidade;
+- Danos à reputação;
+- Prejuízos financeiros para empresas e usuários.
 
 ---
 
@@ -15,55 +15,55 @@ Quando esse vazamento envolve dados de cidadãos, as consequências podem inclui
 
 ## Erro Humano
 
-O erro humano é uma das principais causas de vazamento de dados. Algumas das situações mais comuns incluem:
+O erro humano **é uma das principais causas de vazamento de dados**. Algumas das situações mais comuns incluem:
 
-- envio de e-mails para destinatários errados;
-- clique em links desconhecidos ou maliciosos;
-- download de arquivos suspeitos;
-- compartilhamento inadequado de senhas;
-- perda de dispositivos como notebooks, celulares ou pendrives;
-- configurações incorretas em bancos de dados na nuvem;
-- compartilhamento de informações privadas com terceiros sem autorização.
+- Envio de e-mails para destinatários errados;
+- Clique em links desconhecidos ou maliciosos;
+- Download de arquivos suspeitos;
+- Compartilhamento inadequado de senhas;
+- Perda de dispositivos como notebooks, celulares ou pendrives;
+- Configurações incorretas em bancos de dados na nuvem;
+- Compartilhamento de informações privadas com terceiros sem autorização.
 
 ---
 
 ## Engenharia Social e Phishing
 
-A engenharia social trata de técnicas utilizadas para aplicar golpes que manipulam psicologicamente as pessoas para que revelem senhas, informações sigilosas ou instalem programas maliciosos.
+A engenharia social trata de **técnicas utilizadas para aplicar golpes que manipulam psicologicamente as pessoas** para que revelem senhas, informações sigilosas ou instalem programas maliciosos.
 
-O phishing ocorre por meio de mensagens falsas que se passam por instituições confiáveis, como:
+O phishing ocorre por meio de **mensagens falsas que se passam por instituições confiáveis**, como:
 
-- bancos;
-- empresas terceirizadas;
-- plataformas digitais;
-- serviços online.
+- Bancos;
+- Empresas terceirizadas;
+- Plataformas digitais;
+- Serviços online.
 
-O objetivo é induzir a vítima a clicar em links maliciosos e fornecer informações sensíveis.
+O objetivo é **induzir a vítima a clicar em links maliciosos e fornecer informações sensíveis**.
 
 ---
 
 ## Softwares e Sistemas Desatualizados
 
-Sistemas desatualizados podem conter falhas de segurança conhecidas como *bugs*. Quando essas vulnerabilidades não são corrigidas, criminosos podem explorá-las para invadir sistemas e extrair informações importantes.
+Sistemas desatualizados **podem conter falhas de segurança conhecidas como *bugs***. Quando essas vulnerabilidades não são corrigidas, criminosos podem explorá-las para invadir sistemas e extrair informações importantes.
 
 ---
 
 ## Ataques Virtuais
 
-Ataques virtuais utilizam programas maliciosos para invadir dispositivos e redes corporativas.
+Ataques virtuais **utilizam programas maliciosos para invadir dispositivos e redes corporativas.**
 
 Esses ataques podem resultar no roubo de bancos de dados inteiros, comprometendo:
 
-- informações financeiras;
-- dados estratégicos;
-- dados pessoais;
-- informações corporativas.
+- Informações financeiras;
+- Dados estratégicos;
+- Dados pessoais;
+- Informações corporativas.
 
 ---
 
 ## Falhas de Terceiros
 
-Empresas terceirizadas que possuem acesso a sistemas e dados também podem representar riscos.
+Empresas terceirizadas que possuem **acesso a sistemas e dados também podem representar riscos.**
 
 Caso essas empresas sofram ataques ou apresentem falhas de segurança, os dados compartilhados podem ser expostos e afetar diretamente outras organizações.
 
@@ -71,29 +71,29 @@ Caso essas empresas sofram ataques ou apresentem falhas de segurança, os dados 
 
 ## Ameaças Internas
 
-As ameaças internas ocorrem quando funcionários, colaboradores ou prestadores de serviços utilizam o acesso legítimo aos sistemas para compartilhar informações sigilosas indevidamente.
+As ameaças internas **ocorrem quando funcionários, colaboradores ou prestadores de serviços utilizam o acesso legítimo aos sistemas para compartilhar informações sigilosas indevidamente.**
 
 Isso pode acontecer por:
 
-- vingança;
-- suborno;
-- negligência;
-- má-fé;
-- descuido com informações sensíveis.
+- Vingança;
+- Suborno;
+- Negligência;
+- Má-fé;
+- Descuido com informações sensíveis.
 
 ---
 
 # Qual o Principal Risco do Vazamento de Dados
 
-O principal risco do vazamento de dados está na perda de controle sobre as informações expostas.
+O principal risco do vazamento de dados está na **perda de controle sobre as informações expostas.**
 
 Dados confidenciais podem ser utilizados por criminosos para:
 
-- fraudes;
-- golpes;
-- ataques cibernéticos;
-- roubo de identidade;
-- espionagem corporativa.
+- Fraudes;
+- Golpes;
+- Ataques cibernéticos;
+- Roubo de identidade;
+- Espionagem corporativa.
 
 Além disso, muitas plataformas digitais e ferramentas baseadas em Inteligência Artificial podem utilizar informações enviadas pelos usuários para treinamento de modelos, caso não existam políticas adequadas de proteção e privacidade.
 
@@ -101,14 +101,14 @@ Além disso, muitas plataformas digitais e ferramentas baseadas em Inteligência
 
 # Impactos do Vazamento de Dados
 
-A exposição indevida de informações pode gerar consequências graves para pessoas e organizações, incluindo:
+A exposição indevida de informações **pode gerar consequências graves para pessoas e organizações**, incluindo:
 
-- processos judiciais;
-- multas relacionadas à proteção de dados, como a LGPD;
-- perda de clientes;
-- danos à reputação;
-- prejuízos financeiros;
-- comprometimento da confiança pública.
+- Processos judiciais;
+- Multas relacionadas à proteção de dados, como a LGPD;
+- Perda de clientes;
+- Danos à reputação;
+- Prejuízos financeiros;
+- Comprometimento da confiança pública.
 
 ---
 
@@ -118,10 +118,10 @@ A exposição indevida de informações pode gerar consequências graves para pe
 
 Treinamentos frequentes ajudam colaboradores a identificar:
 
-- golpes de phishing;
-- links maliciosos;
-- tentativas de engenharia social;
-- práticas inseguras.
+- Golpes de phishing;
+- Links maliciosos;
+- Tentativas de engenharia social;
+- Práticas inseguras.
 
 ---
 
@@ -135,7 +135,7 @@ A aplicação do princípio do menor privilégio reduz significativamente os ris
 
 ## Atualização de Sistemas
 
-Manter softwares, servidores e aplicações atualizados ajuda a corrigir vulnerabilidades conhecidas e reduz a superfície de ataque.
+**Manter softwares, servidores e aplicações atualizados ajuda a corrigir vulnerabilidades conhecidas e reduz a superfície de ataque.**
 
 ---
 
@@ -143,10 +143,10 @@ Manter softwares, servidores e aplicações atualizados ajuda a corrigir vulnera
 
 Informações sensíveis devem ser protegidas utilizando:
 
-- criptografia;
-- autenticação multifator;
-- backups seguros;
-- monitoramento contínuo.
+- Criptografia;
+- Autenticação multifator;
+- Backups seguros;
+- Monitoramento contínuo.
 
 ---
 
@@ -154,21 +154,21 @@ Informações sensíveis devem ser protegidas utilizando:
 
 Empresas devem implementar políticas claras relacionadas a:
 
-- uso de dispositivos;
-- compartilhamento de informações;
-- armazenamento de dados;
-- uso de ferramentas de IA;
-- resposta a incidentes.
+- Uso de dispositivos;
+- Compartilhamento de informações;
+- Armazenamento de dados;
+- Uso de ferramentas de IA;
+- Resposta a incidentes.
 
 ---
 
 # A Importância da Proteção de Dados
 
-A proteção de dados não envolve apenas tecnologia, mas também responsabilidade, ética e conscientização.
+**A proteção de dados não envolve apenas tecnologia, mas também responsabilidade, ética e conscientização.**
 
 Com o avanço da Inteligência Artificial e da transformação digital, proteger informações sensíveis tornou-se essencial para garantir:
 
-- privacidade;
-- segurança;
-- conformidade legal;
-- confiança entre empresas e usuários.
+- Privacidade;
+- Segurança;
+- Conformidade legal;
+- Confiança entre empresas e usuários.
