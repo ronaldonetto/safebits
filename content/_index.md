@@ -16,7 +16,11 @@ toc: false
   - [Vulnerabilidades Cibernéticas](/artigos/vulnerabilidades-ciberneticas.md)
   - [Desinformação e Deepfakes](/artigos/desinformacao-deepfake.md) 
   
-  ## Diagnóstico de Segurança 
+## Diagnóstico de Segurança 
    
-   - [Checklist de Segurança](/diagnostico/index.md)
+  - [Checklist de Segurança](/diagnostico/index.md)
+
+## Recursos Gratuitos de Segurança Digital
+
+  - [Recursos Gratuitos de SI](/recursos/recursos-seguranca-digital.md)
 
