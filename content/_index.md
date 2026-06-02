@@ -15,3 +15,4 @@ toc: false
   ## Diagnóstico de Segurança 
    
    - [Checklist de Segurança](/diagnostico/index.md)
+
