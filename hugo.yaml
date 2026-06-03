@@ -18,9 +18,6 @@ markup:
 
 menu:
   main:
-    - name: Sobre
-      pageRef: /about
-      weight: 2
     - name: Search
       weight: 4
       params:
