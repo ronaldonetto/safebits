@@ -5,7 +5,8 @@ toc: false
 
 
 ## Sobre o SafeBits
-
+ 
+-[Tudo sobre o SafeBits](/safebits/sobre.md)
 
 ## Guia de Uso Seguro de Inteligência Artificial
 
