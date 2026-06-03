@@ -55,7 +55,7 @@ O site reúne materiais educativos relacionados à segurança digital, incluindo
 
 ## Autor
 
-O SafeBits foi desenvolvido por **Ronaldo Neto** como parte de seus estudos e projetos na área de tecnologia e cibersegurança.
+O SafeBits foi desenvolvido por [**Ronaldo Neto**](https://github.com/ronaldonetto) como parte de seus estudos e projetos na área de tecnologia e cibersegurança.
 
 O objetivo é contribuir para a disseminação de conhecimento sobre segurança digital de forma simples, gratuita e acessível para todos.
 
