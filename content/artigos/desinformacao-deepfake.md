@@ -10,12 +10,12 @@ Entre os principais riscos estão a desinformação em massa e os chamados **dee
 
 Deepfakes são conteúdos gerados ou manipulados por Inteligência Artificial capazes de imitar com grande realismo:
 
-- rostos;
-- vozes;
-- expressões faciais;
-- vídeos;
-- imagens;
-- falas humanas.
+- Rostos;
+- Vozes;
+- Expressões faciais;
+- Vídeos;
+- Imagens;
+- Falas humanas.
 
 Essa tecnologia pode criar conteúdos falsos extremamente convincentes, dificultando a distinção entre o que é real e o que foi artificialmente produzido.
 
