@@ -37,13 +37,7 @@ Informar a pequenos empreendedores a:
 
 * ✅ **Checklist de segurança digital**
   Guia prático para aplicar imediatamente
-
-* 🧪 **Exemplos reais e simulações**
-  Situações de risco como:
-
-  * Criação de sites com IA
-  * Uso de senhas fracas
-  * Más configurações
+  
 ---
 
 ## 🛠️ Tecnologias e ferramentas
@@ -52,18 +46,6 @@ Informar a pequenos empreendedores a:
 * GitHub Pages
 * Hugo + tema Hextra
 * Ferramentas de Inteligência Artificial
-
----
-
-## 📌 Diferencial do projeto
-
-Este projeto não fica apenas no campo teórico.
-
-A proposta é mostrar **na prática**:
-
-* Onde estão os riscos
-* Como eles acontecem
-* Como evitar de forma simples
 
 ---
 
